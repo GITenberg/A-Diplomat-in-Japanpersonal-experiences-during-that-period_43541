@@ -1,0 +1,36 @@
+_repo: A-Diplomat-in-Japanpersonal-experiences-during-that-period_43541
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43541-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Satow, Ernest Mason
+    aliases:
+    - Satow, Ernest Mason, Sir
+    - Satou, E., Sir
+    birthdate: 1843
+    deathdate: 1929
+    gutenberg_agent_id: '42281'
+    url: http://www.gutenberg.org/2009/agents/42281
+description: ''
+gutenberg_issued: '2013-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43541'
+  lccn: '21008608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Satow, Ernest Mason, 1843-1929'
+- !lcsh 'Japan -- Foreign relations -- 1600-1868'
+- !lcsh 'Japan -- History -- Restoration, 1853-1870'
+title: "A Diplomat in Japan\r\nThe inner history of the critical years in the evolution\
+  \ of Japan when the ports were opened and the monarchy restored, recorded by a diplomatist\
+  \ who took an active part in the events of the time, with an account of his personal\
+  \ experiences during that period"
+url: http://www.gutenberg.org/ebooks/43541
